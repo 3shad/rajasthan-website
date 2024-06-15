@@ -1,0 +1,128 @@
+body{
+  
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.main{
+    background-image: url(foteriage.png);
+ 
+    background-position:center;
+    padding: 0%;
+   margin-top: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    height: auto;
+    width: 100%;
+}
+.nameHed{
+    font-size: 100px;
+    text-align: center;
+    margin: 0%;
+   text-shadow:5px 5px 10px rgba(249, 195, 164, 3);
+   color: red;
+}
+.doc{
+    margin-top: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(249, 195, 164);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+   margin-top: 2%;
+   background-size: cover;
+   background-size: cover;
+   text-wrap: h;
+
+}
+.nv{
+   justify-content: space-between;
+   margin-left: 0%;
+   margin-right: 0%;
+    display: flex;
+    border-radius: 10%;
+}
+.NV{
+    background-color: rgba(120, 120, 0, 0.3);
+    background-color: red;
+}
+.hm{
+   
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+    width: 120px;
+   
+}
+.hm:hover{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+   
+}
+.ab{
+   
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+    width: 120px;
+}
+.ab:hover{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+}
+.sn{
+   
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+    width: 120px;
+}
+.sn:hover{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+}
+.cn{
+   
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+    width: 120px;
+  backface-visibility: visible;
+}
+.cn:hover{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 10%;
+}
+
+.fig{
+    background-image: url(imag.png);
+}
+button:hover{
+   background-color: red;
+   color: red;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    bottom: 0;
+    width: 100%;
+}
+.oner{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    right: auto;
+}
